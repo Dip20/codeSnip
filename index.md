@@ -8,16 +8,16 @@ Here is some **Mysql** snippep.
 
 ```MYSQL
 
+$sql = mysqli_query($conn,"INSERT INTO tbl_your_table (column1,column2,column3,column4,column5) VALUES('$value1','$value2','$value3','$value4','$value5')");
+if($sql)
+{
+  
+  echo "success";
 
-<pre>
-
-<h1> hello world>
-
-<h2> hey how are you?</h2>
-
-
-</pre>
-
+}else
+{
+  echo "failed";
+}
 
 ```
 

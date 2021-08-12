@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Code Snipp
 
-You can use the [editor on GitHub](https://github.com/Dip20/codeSnip/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can get the most used code snippets of most HTML,CSS,PHP,MYSQL,JAVASCRPT,JQUERY,AJAX & BOOTSTRAP AND many more. 
 
 ### Markdown
 

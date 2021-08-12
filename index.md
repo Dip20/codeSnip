@@ -1,10 +1,34 @@
 ## Welcome to Code Snipp
 
-You can get the most used code snippets of most HTML,CSS,PHP,MYSQL,JAVASCRPT,JQUERY,AJAX & BOOTSTRAP AND many more. 
+You can get the most used code snippets of most languages HTML,CSS,PHP,MYSQL,JAVASCRPT,JQUERY,AJAX & BOOTSTRAP AND many more. 
+
+
+### MYSQL
+Here is some **Mysql** snippep.
+
+```MYSQL
+
+
+<pre>
+
+<h1> hello world>
+
+<h2> hey how are you?</h2>
+
+
+</pre>
+
+
+```
+
+
+
+
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
@@ -23,13 +47,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dip20/codeSnip/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
